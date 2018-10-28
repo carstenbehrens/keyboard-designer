@@ -1,0 +1,75 @@
+export const firstRow = [
+  ['`', 'upperComma'],
+  ['1', 'one'],
+  ['2', 'two'],
+  ['3', 'three'],
+  ['4', 'four'],
+  ['5', 'five'],
+  ['6', 'six'],
+  ['7', 'seven'],
+  ['8', 'eight'],
+  ['9', 'nine'],
+  ['0', 'zero'],
+  ['-', 'minus'],
+  ['=', 'equal'],
+  ['Backspace', 'upperBackspace', '2'],
+];
+
+export const secondRow = [
+  ['Tab', 'Tab', '1.5'],
+  ['Q', 'Q'],
+  ['W', 'W'],
+  ['E', 'E'],
+  ['R', 'R'],
+  ['T', 'T'],
+  ['Y', 'Y'],
+  ['U', 'U'],
+  ['I', 'I'],
+  ['O', 'O'],
+  ['P', 'P'],
+  ['[', 'bracketLeft'],
+  ['[', 'bracketRight'],
+  ['\\', 'backspace', '1.5'],
+];
+
+export const thirdRow = [
+  ['Caps Lock', 'capsLock', '1.77'],
+  ['A', 'A'],
+  ['S', 'S'],
+  ['D', 'D'],
+  ['F', 'F'],
+  ['G', 'G'],
+  ['H', 'H'],
+  ['J', 'J'],
+  ['K', 'K'],
+  ['L', 'L'],
+  [':', 'colon'],
+  ['"', 'quote'],
+  ['Enter', 'enter', '2.28'],
+];
+
+export const fourthRow = [
+  ['Shift', 'shiftLeft', '2.30'],
+  ['Z', 'Z'],
+  ['X', 'X'],
+  ['C', 'C'],
+  ['V', 'V'],
+  ['B', 'B'],
+  ['N', 'N'],
+  ['M', 'M'],
+  [',', 'comma'],
+  ['.', 'dot'],
+  ['?', 'question'],
+  ['Shift', 'shiftRight', '2.80'],
+];
+
+export const fifthRow = [
+  ['Ctrl', 'ctrlLeft', '1.25'],
+  ['Win', 'winLeft', '1.25'],
+  ['Alt', 'altLeft', '1.25'],
+  ['', 'space', '6.58'],
+  ['Alt', 'altRight', '1.25'],
+  ['Win', 'winRight', '1.25'],
+  ['Menu', 'menu', '1.25'],
+  ['Ctrl', 'ctrlRight', '1.25'],
+];
