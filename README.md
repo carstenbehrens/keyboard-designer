@@ -1,11 +1,9 @@
 ## Simple-Keyboard-Desinger
 
-Live at: 
+Live at: https://carstenbehrens.github.io/keyboard-designer/
 
 
 ## Built With:
 
-Create React App is divided into two packages:
-
-react
+react +
 styled-components
